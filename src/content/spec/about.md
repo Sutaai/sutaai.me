@@ -1,6 +1,7 @@
 # About me
 
 I am called Sutaai online. It comes from the japanese of "Star eye" (スターアイ).
+Visit https://sutaai.dev/ for more links.
 
 I am a french resident. I work in the field of technologies and systems. I have past experience with programming which is now more of a personnal hobby than anything serious.
 Call me a nerd, you'd be deadly right.
