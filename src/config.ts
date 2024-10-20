@@ -39,11 +39,6 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Home,
     LinkPreset.Archive,
     LinkPreset.About,
-    {
-      name: "github",
-      url: "https://github.com/Sutaai", // Internal links should not include the base path, as it is automatically added
-      external: true, // Show an external link icon and will open in a new tab
-    },
   ],
 };
 
@@ -53,14 +48,14 @@ export const profileConfig: ProfileConfig = {
   bio: "networks and sys admins in the making. kind of.",
   links: [
     {
+      name: "links",
+      icon: "fa6-solid:share-nodes",
+      url: "https://sutaai.dev/",
+    },
+    {
       name: "steam", // Visit https://icones.js.org/ for icon codes
       icon: "fa6-brands:steam", // You will need to install the corresponding icon set if it's not already included
       url: "https://steamcommunity.com/id/Sutaai/", // `pnpm add @iconify-json/<icon-set-name>`
-    },
-    {
-      name: "github",
-      icon: "fa6-brands:github",
-      url: "https://github.com/Sutaai",
     },
   ],
 };

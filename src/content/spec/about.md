@@ -30,6 +30,6 @@ This blog is very recent, there isn't much, but I'll add stuff to it some days..
 
 ## Stuff I want to do
 
-- next gen: current next personnal PC build. will be overpowered, overspec'ed. will replace my current rig, which will be repurposed to become a [NAS](https://en.wikipedia.org/wiki/Network-attached_storage) with estimated ~10TB with RAID 5 (not current disk space available).
+- next gen: current next personnal PC build. will be overpowered, overspec'ed. will replace my current rig, which will be repurposed to become a [NAS](https://en.wikipedia.org/wiki/Network-attached_storage) with estimated ~10TB with RAID 5 (not current disk space available). I will make a blog post once this happen.
 
 My avatar comes from the "[Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE)" album cover, by "[Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO)".
