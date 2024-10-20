@@ -1,38 +1,38 @@
-import Key from '../i18nKey'
-import type { Translation } from '../translation'
+import Key from "../i18nKey";
+import type { Translation } from "../translation";
 
 export const en: Translation = {
-  [Key.home]: 'Home',
-  [Key.about]: 'About',
-  [Key.archive]: 'Archive',
-  [Key.search]: 'Search',
+  [Key.home]: "home",
+  [Key.about]: "about",
+  [Key.archive]: "archive",
+  [Key.search]: "search",
 
-  [Key.tags]: 'Tags',
-  [Key.categories]: 'Categories',
-  [Key.recentPosts]: 'Recent Posts',
+  [Key.tags]: "tags",
+  [Key.categories]: "categories",
+  [Key.recentPosts]: "recent posts",
 
-  [Key.comments]: 'Comments',
+  [Key.comments]: "comments",
 
-  [Key.untitled]: 'Untitled',
-  [Key.uncategorized]: 'Uncategorized',
-  [Key.noTags]: 'No Tags',
+  [Key.untitled]: "untitled",
+  [Key.uncategorized]: "uncategorized",
+  [Key.noTags]: "no tags",
 
-  [Key.wordCount]: 'word',
-  [Key.wordsCount]: 'words',
-  [Key.minuteCount]: 'minute',
-  [Key.minutesCount]: 'minutes',
-  [Key.postCount]: 'post',
-  [Key.postsCount]: 'posts',
+  [Key.wordCount]: "word",
+  [Key.wordsCount]: "words",
+  [Key.minuteCount]: "minute",
+  [Key.minutesCount]: "minutes",
+  [Key.postCount]: "post",
+  [Key.postsCount]: "posts",
 
-  [Key.themeColor]: 'Theme Color',
+  [Key.themeColor]: "theme color",
 
-  [Key.lightMode]: 'Light',
-  [Key.darkMode]: 'Dark',
-  [Key.systemMode]: 'System',
+  [Key.lightMode]: "light",
+  [Key.darkMode]: "dark",
+  [Key.systemMode]: "system",
 
-  [Key.more]: 'More',
+  [Key.more]: "more",
 
-  [Key.author]: 'Author',
-  [Key.publishedAt]: 'Published at',
-  [Key.license]: 'License',
-}
+  [Key.author]: "author",
+  [Key.publishedAt]: "published at",
+  [Key.license]: "license",
+};

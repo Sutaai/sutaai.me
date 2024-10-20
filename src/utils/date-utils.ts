@@ -1,3 +1,3 @@
 export function formatDateToYYYYMMDD(date: Date): string {
-  return date.toISOString().substring(0, 10)
+  return `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`;
 }
