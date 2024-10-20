@@ -34,6 +34,9 @@ export default defineConfig({
   site: "https://sutaai.me/",
   base: "/",
   trailingSlash: "always",
+  redirects: {
+    '/397/': 'https://sutaai.dev/397/',
+  },
   integrations: [
     tailwind(),
     swup({
