@@ -1,9 +1,9 @@
 # About me
 
 I am called Sutaai online. It comes from the japanese of "Star eye" (スターアイ).
-Visit https://sutaai.dev/ for more links.
+Visit <https://sutaai.dev/> for more links.
 
-I am a french resident. I work in the field of technologies and systems. I have past experience with programming which is now more of a personnal hobby than anything serious.
+I am a french resident. I work in the field of system administration and networking maintenance for public services. I have past experience with programming which is now more of a personal hobby than anything serious.
 Call me a nerd, you'd be deadly right.
 
 Privacy is one of the thing I am really close yet still very not knowledgeable about.
@@ -30,6 +30,6 @@ This blog is very recent, there isn't much, but I'll add stuff to it some days..
 
 ## Stuff I want to do
 
-- next gen: current next personnal PC build. will be overpowered, overspec'ed. will replace my current rig, which will be repurposed to become a [NAS](https://en.wikipedia.org/wiki/Network-attached_storage) with estimated ~10TB with RAID 5 (not current disk space available). I will make a blog post once this happen.
+- next gen: current next personal PC build. will be overpowered, overspec'ed. will replace my current rig, which will be repurposed to become a [NAS](https://en.wikipedia.org/wiki/Network-attached_storage) with estimated ~10TB with RAID 5 (not current disk space available). I will make a blog post once this happen.
 
 My avatar comes from the "[Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE)" album cover, by "[Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO)".
