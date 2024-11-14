@@ -30,4 +30,4 @@ Before attacking this part, here's a quick recap on how things worked out:
     - Starting our second year (By September 2024), we can enter school with an apprenticeship, which consist of obtaining a job, and shifting between "school-time" and "work-time".
     - Our shifts is generally represent by 1 month long shifts. (I will go to school for a month, then the next month, I will go to work).
 
-### Current status pre-Septemb
+### Current status pre-September
