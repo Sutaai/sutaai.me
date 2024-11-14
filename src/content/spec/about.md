@@ -23,7 +23,9 @@ This blog is very recent, there isn't much, but I'll add stuff to it some days..
 
 ## Stuff I own
 
-- headphones: [Sennheiser HD600](https://www.sennheiser-hearing.com/en-US/p/hd-600/)
+- phone (personal): [Google Pixel 8](https://store.google.com/us/product/pixel_8) (Running Stock OS)
+- headphones (home): [Sennheiser HD600](https://www.sennheiser-hearing.com/en-US/p/hd-600/)
+- headphones (nomad): [Sennheiser Momentum 4](https://www.sennheiser-hearing.com/en-US/p/momentum-4-wireless-pride-edition/)
 - tablet: [reMarkable 2](https://remarkable.com/)
 - misc: [Flipper Zero](https://flipperzero.one/) (Gen 1)
 - misc: A [huge flag](https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg) (⚠️: some will hate this flag, some others will love it. you choose.)

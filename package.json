@@ -10,8 +10,7 @@
     "astro": "astro",
     "type-check": "tsc --noEmit --isolatedDeclarations",
     "new-post": "node scripts/new-post.js",
-    "format": "prettier ./src --write",
-    "lint": "biome check --write ./src"
+    "format": "prettier ./src --write"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
@@ -49,7 +48,6 @@
   },
   "devDependencies": {
     "@astrojs/ts-plugin": "^1.10.4",
-    "@biomejs/biome": "1.8.3",
     "@iconify-json/fa6-brands": "^1.2.1",
     "@iconify-json/fa6-regular": "^1.2.1",
     "@iconify-json/fa6-solid": "^1.2.1",
