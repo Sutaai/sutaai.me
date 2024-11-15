@@ -31,3 +31,20 @@ Before attacking this part, here's a quick recap on how things worked out:
     - Our shifts is generally represent by 1 month long shifts. (I will go to school for a month, then the next month, I will go to work).
 
 ### Current status pre-September
+
+Before enjoying holidays that the school offers, we've still had lessons to attend and a few things to deal with first.
+
+One of them was to attend the yearly "job dating". This is a very special day. Before this day, we've had lessons to teach us how to improve our curriculum vitae, stylize it, make it look good, present the most important points, etc.
+
+While I won't show of mine, I've done something quite good looking, modern, and presenting my strong points.
+
+We then went to the "job dating". Many professional went there, looking for students to take on an apprenticeship contract. Since we were a good ~120 students waiting in line to obtain a job, it was pretty much overcrowded.
+More than 38 enterprises went there, looking for their students to engage.
+
+Obviously, not all of them were looking for the same field. Around 10 of them were looking into the field of networking. My field.
+
+I went around and presented myself to a few persons. In general, they all asked common questions about networking, to get to know me a bit more and how interesting would it be to engage me.
+One in particular did not do that. It wasn't as "chill" as others. This enterprise in particular, came in two person, one to analyze your personality, and the other to test your technical abilities and your knowledge. I found it not only annoying (Because this felt very robotic), but quite a bit insolent. It's quite an image of them, showing that "We know better than you, and we expect only the best".
+
+Guys... Come on, it's a school... If you wanted the best, you should have gone into the job market, don't you think? That's way too elitist to me. I hope, whoever joined them, enjoy it's job there.
+I can't remember what was the name of the enterprise anyway. :)
