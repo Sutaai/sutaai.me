@@ -1,6 +1,6 @@
 ---
 title: 2024 in review
-published: 2024-11-14
+published: 2024-12-22
 description: A review of 2024, what I experienced, and everything that goes along it. Let's talk about LGBT+ rights, jobs, studies, and many other things.
 image: ""
 tags: ["life", "years in review", "trans"]
