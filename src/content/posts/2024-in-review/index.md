@@ -31,7 +31,7 @@ This year, I have bought quite a few significant stuff that I will daily drive:
 - Headphones (At home): [Sennheiser HD600](https://www.sennheiser-hearing.com/en-US/p/hd-600/) + Headphones (Nomad): [Sennheiser Momentum 4](https://www.sennheiser-hearing.com/en-US/p/momentum-4-wireless-pride-edition/)
 
   I've talked about these in my [about](/about/) page. I have moved from my old [SteelSeries Arctis 5](https://steelseries.com/gaming-headsets/arctis-5) headset. Moving to an audiophile headphones was the smartest thing to do. I have been recommended the HD600 by an artist. Thank you!
-  The Momentum 4 is more of a personal choice (Not for its skin). I moved away from truly wireless earphones. This was also a smart idea, though, it took quite some time to adapt myself to the audio quality of the Momentum 4, which is more "Pretty alright", compared to the "Amazing experience" of the HD600.
+  The Momentum 4 is more of a personal choice. I moved away from truly wireless earphones. This was also a smart idea, though, it took quite some time to adapt myself to the audio quality of the Momentum 4, which is more "Pretty alright", compared to the "Amazing experience" of the HD600.
 
 - e-ink tablet: [Boox Note Air 4C](https://ewritable.net/brands/boox/tablets/boox-note-air4-c/)
 
@@ -44,8 +44,9 @@ This year, I have bought quite a few significant stuff that I will daily drive:
 
 #### The selection of OS
 
-I have slowly shifted to using Linux as my main OS on my computers (Both portable, and my tower). It's been a smooth tide with Fedora.
-I still dual boot with Windows 11 on my tower for gaming. Certain games doesn't run well on Linux, and I'll probably just entirely stop gaming on Linux until I no longer use Windows.
+I have slowly shifted to using Linux as my main OS on my computers (Both laptop and desktop). It's been a smooth ride with Fedora.
+
+I still dual boot with Windows 11 on my desktop for gaming. Certain games doesn't run well on Linux, and I'll probably just entirely stop gaming on Linux until I no longer use Windows.
 Sharing a Steam storage between Linux and Windows is more trouble than anything.
 
 Also, for Windows, I used to run with [Atlas OS](https://atlasos.net/). While I appreciate the modification realized to Windows and the increase of privacy, the modification it provides are cause more troubles than help.
@@ -108,7 +109,7 @@ I highly recommend you to take a look at [awesome-selfhosted](https://awesome-se
 ## Studies
 
 Things have been heavily stressful for the beginning of the second year of networking and apprenticeship.
-It has been extensively filled with intense work, very short time frame to realize projects, and extremely complexe subjects.
+It has been extensively filled with intense work, very short time frame to realize projects, and extremely complex subjects.
 
 And I really don't like maths, honestly. Which is a lot of our studies. oochie :(
 
@@ -123,7 +124,7 @@ I have started working since mid-October. My first work experience as a sys. and
 I've learned a ton of new things. Funny enough, I feel like only VLAN was something worth to learn in my last year of school.
 
 I am currently working for a city in France. So we have a really robust and developed environment.
-I also have learnt invaluable new knowledge too. Understanding a true production environment, tools that are used to manage our sites, etc.
+I also have learnt very valuable new knowledge too. Understanding a true production environment, tools that are used to manage our sites, etc.
 Something I truly appreciate in this specific environment.
 
 I probably will talk more about my experience and what I've learned there. There are plenty of things I wish to talk about! (Namely, how my enterprise can absolutely read everything from our users)

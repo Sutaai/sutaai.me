@@ -9,16 +9,24 @@ draft: false
 lang: ""
 ---
 
-As surprising as it may sound, I'm not much of a reader usually. I just happen to read stuff by pure curiosity, not because "Oh, this look interesting."
+<!--
+- ✅ Completed
+- ⌚ Ongoing...
+- ✒️ To write a review for
+- 🗒️ Noted for later
+-->
+
+As surprising as it may sound, I'm not much of a reader usually. I just happen to read stuff by pure curiosity, not because "Oh, this look interesting." when I'm at the library.
+
 I generally won't read something that just _catch my eyes_, I need a much stronger reason for me to push myself to read something. And it's a spark of interest either by a topic, or a reference I've seen somewhere else.
 
-To read my books, I generally use my [reMarkable 2](https://remarkable.com/) tablet, it allows me much greater flexibility than carrying books in my bag (Which already weight a bit). I could read stuff everywhere this way without taking too much space (It's super thin!)
+To read my books, I generally use my [Boox Note Air 4C](<https://euroshop.boox.com/products/noteair4c>) tablet, it allows me much greater flexibility than carrying books in my bag (Which already weight a bit). I could read stuff everywhere this way without taking too much space (It's super thin!)
 
-> ## [Normal People](https://wikipedia.org/wiki/Normal_People)
+> ## [Normal People](<https://wikipedia.org/wiki/Normal_People>)
 >
 > By Sally Rooney - ✅ Completed
 >
-> ⭐⭐⭐☁️☁️ -> TL;DR A good and interesting read overall, but way too focused in sexual topics. The social theme is also an important part of this book, leaving the reader to understand more about division of relationship. However, it goes much more unnoticed sadly due to the sexual scenes.
+> ⭐⭐⭐☁️☁️ -> TL;DR A good and interesting read overall, but way too focused in sexual topics. The social theme is also an important part of this book, leaving the reader to understand more about division of relationship. However, it goes much more unnoticed sadly due to the uninteresting sexual scenes.
 
 I have been given this book from my high-school English teacher, which gave it saying it reminded her of me (but that I shouldn't see a message in this present). Sure!
 
@@ -33,9 +41,23 @@ I could understand why it was necessary however, because it'll cover the topic o
 
 If the sexual scenes were less present, I would have probably liked this book way more.
 
-<!-- > # [The King in Yellow](https://wikipedia.org/wiki/The_King_in_Yellow)
+> ## [The King in Yellow](<https://wikipedia.org/wiki/The_King_in_Yellow>)
+>
 > By Robert William Chambers - ⌚ Ongoing... (No notes given yet)
 >
-> ☁️☁️☁️☁️☁️ -> TL;DR Shorts series mixed with horror, fiction and romantic stories. A book full of sensational stories you probably won't find anywhere else.
+> ⭐⭐⭐⭐☁️ -> TL;DR Shorts series mixed with horror, fiction and romantic stories. A book full of sensational stories you probably won't find anywhere else.
+>
+> **This book is available at Project Gutenberg**: <https://www.gutenberg.org/ebooks/8492>
 
-This game is a very repetitive occurrence in the game [Signalis](https://wikipedia.org/wiki/Signalis), if not it's most important influence. You can find it in most important cut-scenes of the game. To recap, this game set you to find your lover in a dystopia, full of horror. (I got jump-scared a few times!)   -->
+This book is a very repetitive occurrence in the game [Signalis](<https://wikipedia.org/wiki/Signalis>), it's how I learned about this book. My interest was piqued after playing the game. For reference, it's a horror game.
+
+I really like this book, and I have yet to finish it, but I will still give it a review here.
+
+It is packed with different little stories with different kind of endings, but still follow a certain pattern. The story will either be a happy ending, or a bad ending, but, it'll be because of something they all share in commons. Will you guess what?
+
+In here, you'll have different emotions: Hate, love, horror, etc.
+
+I really like how the supernaturals events that happens are happening naturally. It feels like it isn't even supernatural and part of our daily world. Thankfully not, but it feel crazy realistic.
+Kudos to the quotes that were made between stories too, I really enjoy them.
+
+It's overall an amazing read if you like adventure and dramatic lectures. It won't kill your sanity, and you'll have a hell of a fun ride!
