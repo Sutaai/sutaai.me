@@ -28,7 +28,7 @@ This blog is very recent, there isn't much, but I'll add stuff to it some days..
 - phone (personal): [Google Pixel 8](https://store.google.com/us/product/pixel_8) (Running Stock OS)
 - headphones (home): [Sennheiser HD600](https://www.sennheiser-hearing.com/en-US/p/hd-600/)
 - headphones (nomad): [Sennheiser Momentum 4](https://www.sennheiser-hearing.com/en-US/p/momentum-4-wireless-pride-edition/)
-- tablet: ~~[reMarkable 2](https://remarkable.com/)~~ I am currently changing to the [Boox Note Air 4C](https://ewritable.net/brands/boox/tablets/boox-note-air4-c/)
+- tablet: [Boox Note Air 4C](https://ewritable.net/brands/boox/tablets/boox-note-air4-c/)
 - misc: [Flipper Zero](https://flipperzero.one/) (Gen 1)
 - misc: A [huge flag](https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg) (⚠️: some will hate this flag, some others will love it. you choose.)
 
@@ -37,4 +37,5 @@ This blog is very recent, there isn't much, but I'll add stuff to it some days..
 - next gen: current next personal PC build. will be overpowered, overspec'ed. will replace my current rig, which will be repurposed to become a [NAS](https://en.wikipedia.org/wiki/Network-attached_storage) with estimated ~10TB with RAID 5 (not current disk space available). I will make a blog post once this happen.
 
 <!-- My avatar comes from the "[Hallucination Town](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE)" album cover, by "[Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO)". -->
-My avatar is from the artist "[Gaako_illust](https://x.com/Gaako_illust/status/1664258623797882881)".
+<!-- My avatar is from the artist "[Gaako_illust](https://x.com/Gaako_illust/status/1664258623797882881)". -->
+My avatar comes from [Cyberpunk: Edgerunner's Ending Theme, "Let You Down"](https://www.youtube.com/watch?v=BnnbP7pCIvQ), featuring [Sasha Yakovleva](https://cyberpunk.fandom.com/wiki/Sasha_Yakovleva).

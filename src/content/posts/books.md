@@ -26,7 +26,7 @@ To read my books, I generally use my [Boox Note Air 4C](<https://euroshop.boox.c
 >
 > By Sally Rooney - ✅ Completed
 >
-> ⭐⭐⭐☁️☁️ -> TL;DR A good and interesting read overall, but way too focused in sexual topics. The social theme is also an important part of this book, leaving the reader to understand more about division of relationship. However, it goes much more unnoticed sadly due to the uninteresting sexual scenes.
+> ⭐⭐☁️☁️☁️ -> TL;DR A good and interesting read overall, but way too focused in sexual topics. The social theme is also an important part of this book, leaving the reader to understand more about division of relationship. However, it goes much more unnoticed sadly due to the uninteresting sexual scenes.
 
 I have been given this book from my high-school English teacher, which gave it saying it reminded her of me (but that I shouldn't see a message in this present). Sure!
 
@@ -43,7 +43,7 @@ If the sexual scenes were less present, I would have probably liked this book wa
 
 > ## [The King in Yellow](<https://wikipedia.org/wiki/The_King_in_Yellow>)
 >
-> By Robert William Chambers - ⌚ Ongoing... (No notes given yet)
+> By Robert William Chambers - ⌚ Ongoing...
 >
 > ⭐⭐⭐⭐☁️ -> TL;DR Shorts series mixed with horror, fiction and romantic stories. A book full of sensational stories you probably won't find anywhere else.
 >

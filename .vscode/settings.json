@@ -18,8 +18,11 @@
     "quickfix.biome": "always",
     "source.organizeImports.biome": "always"
   },
-  "frontMatter.dashboard.openOnStart": false,
   "cSpell.words": [
-    "Signalis"
+    "Nushell",
+    "Sennheiser",
+    "Signalis",
+    "Vesktop",
+    "Voicemeeter"
   ]
 }
