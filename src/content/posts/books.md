@@ -43,7 +43,7 @@ If the sexual scenes were less present, I would have probably liked this book wa
 
 > ## [The King in Yellow](<https://wikipedia.org/wiki/The_King_in_Yellow>)
 >
-> By Robert William Chambers - ⌚ Ongoing... (No notes given yet)
+> By Robert William Chambers - ⌚ Ongoing...
 >
 > ⭐⭐⭐⭐☁️ -> TL;DR Shorts series mixed with horror, fiction and romantic stories. A book full of sensational stories you probably won't find anywhere else.
 >

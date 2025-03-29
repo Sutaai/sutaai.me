@@ -49,7 +49,7 @@ I have slowly shifted to using Linux as my main OS on my computers (Both laptop 
 I still dual boot with Windows 11 on my desktop for gaming. Certain games doesn't run well on Linux, and I'll probably just entirely stop gaming on Linux until I no longer use Windows.
 Sharing a Steam storage between Linux and Windows is more trouble than anything.
 
-Also, for Windows, I used to run with [Atlas OS](https://atlasos.net/). While I appreciate the modification realized to Windows and the increase of privacy, the modification it provides are cause more troubles than help.
+Also, for Windows, I used to run with [Atlas OS](https://atlasos.net/). While I appreciate the modification realized to Windows and the increase of privacy, the modification it provides are causing more troubles than help.
 I would rather now, use a tool such a [Win11Debloat](https://github.com/Raphire/Win11Debloat) to modify Windows to my needs.
 
 #### Using "dotfiles" tooling
