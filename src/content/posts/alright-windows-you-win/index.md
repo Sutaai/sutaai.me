@@ -125,6 +125,17 @@ This will create a local account on your machine.
 
 Once you've completed the initial setup, you're welcomed into your new session.
 
+:::caution
+Post-release update
+
+This was a real bad timing. It appears Microsoft, as it's most usual business, will remove OOBE bypassing.
+As such, this mean that what I've previously stated will no longer be possible, whenever Microsoft will blow the bomb.
+
+<https://www.reddit.com/r/sysadmin/comments/1jmgkfk/microsoft_is_removing_the_bypassnro_command_from/>
+
+What you can do, if you have the Pro version, is to attempt to join an Active Directory domain, which will also create a local user. (And you don't actually need to join a domain while in setup, so just hit the button)
+:::
+
 ### Clean the windows
 
 🤡 i know, i make such amazing joke.
