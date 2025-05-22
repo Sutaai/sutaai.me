@@ -9,13 +9,13 @@ export const en: Translation = {
 
   [Key.tags]: "tags",
   [Key.categories]: "categories",
-  [Key.recentPosts]: "recent posts",
+  [Key.recentPosts]: "recentPosts",
 
   [Key.comments]: "comments",
 
   [Key.untitled]: "untitled",
   [Key.uncategorized]: "uncategorized",
-  [Key.noTags]: "no tags",
+  [Key.noTags]: "noTags",
 
   [Key.wordCount]: "word",
   [Key.wordsCount]: "words",
@@ -24,7 +24,7 @@ export const en: Translation = {
   [Key.postCount]: "post",
   [Key.postsCount]: "posts",
 
-  [Key.themeColor]: "theme color",
+  [Key.themeColor]: "themeColor",
 
   [Key.lightMode]: "light",
   [Key.darkMode]: "dark",
@@ -33,6 +33,6 @@ export const en: Translation = {
   [Key.more]: "more",
 
   [Key.author]: "author",
-  [Key.publishedAt]: "published at",
+  [Key.publishedAt]: "publishedAt",
   [Key.license]: "license",
 };
