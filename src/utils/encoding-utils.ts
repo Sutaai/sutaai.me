@@ -9,9 +9,9 @@
  * @returns The encoded string
  */
 export function encodePathSegment(value: string): string {
-	if (!value) return "";
+  if (!value) return "";
 
-	return encodeURIComponent(value.trim());
+  return encodeURIComponent(value.trim());
 }
 
 /**
@@ -21,12 +21,12 @@ export function encodePathSegment(value: string): string {
  * @returns Decoded string
  */
 export function decodePathSegment(value: string): string {
-	if (!value) return "";
+  if (!value) return "";
 
-	try {
-		return decodeURIComponent(value);
-	} catch (e) {
-		console.error(`Failed to decode path segment: ${value}`, e);
-		return value;
-	}
+  try {
+    return decodeURIComponent(value);
+  } catch (e) {
+    console.error(`Failed to decode path segment: ${value}`, e);
+    return value;
+  }
 }

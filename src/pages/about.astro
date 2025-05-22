@@ -11,7 +11,7 @@ import { i18n } from "../i18n/translation";
 const aboutPost = await getEntry("spec", "about");
 
 if (!aboutPost) {
-	throw new Error("About page content not found");
+  throw new Error("About page content not found");
 }
 
 const { Content } = await render(aboutPost);
