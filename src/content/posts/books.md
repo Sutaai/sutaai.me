@@ -13,7 +13,7 @@ lang: ""
 - ✅ Completed
 - ⌚ Ongoing...
 - ✒️ To write a review for
-- 🗒️ Noted for later
+- 🗒️ Noted for later (To read later)
 -->
 
 As surprising as it may sound, I'm not much of a reader usually. I just happen to read stuff by pure curiosity, not because "Oh, this look interesting." when I'm at the library.
@@ -24,7 +24,7 @@ To read my books, I generally use my [Boox Note Air 4C](<https://euroshop.boox.c
 
 > ## [Normal People](<https://wikipedia.org/wiki/Normal_People>)
 >
-> By Sally Rooney - ✅ Completed
+> By **Sally Rooney** - ✅ Completed
 >
 > ⭐⭐☁️☁️☁️ -> TL;DR A good and interesting read overall, but way too focused in sexual topics. The social theme is also an important part of this book, leaving the reader to understand more about division of relationship. However, it goes much more unnoticed sadly due to the uninteresting sexual scenes.
 
@@ -43,7 +43,7 @@ If the sexual scenes were less present, I would have probably liked this book wa
 
 > ## [The King in Yellow](<https://wikipedia.org/wiki/The_King_in_Yellow>)
 >
-> By Robert William Chambers - ⌚ Ongoing...
+> By **Robert William Chambers** - ⌚ Ongoing...
 >
 > ⭐⭐⭐⭐☁️ -> TL;DR Shorts series mixed with horror, fiction and romantic stories. A book full of sensational stories you probably won't find anywhere else.
 >
@@ -61,3 +61,15 @@ I really like how the supernaturals events that happens are happening naturally.
 Kudos to the quotes that were made between stories too, I really enjoy them.
 
 It's overall an amazing read if you like adventure and dramatic lectures. It won't kill your sanity, and you'll have a hell of a fun ride!
+
+> ## [Tous les silences ne font pas le même bruit](<https://www.librarything.com/work/33101130/t/Tous-les-silences-ne-font-pas-le-m%C3%AAme-bruit-French-Edition>)
+>
+> By **Baptiste Beaulieu** - ⌚ Ongoing
+
+Further notes will be given once book has been finished.
+
+> ## [House of Leaves](<https://wikipedia.org/wiki/House_of_Leaves>)
+>
+> By **Mark Z. Danielewski** - 🗒️ Noted for later (To read later)
+
+Further notes will be given once this book has been started.
