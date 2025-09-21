@@ -1,12 +1,12 @@
 ---
 title: 2024 in review
 published: 2024-12-22
-description: A review of 2024, what I experienced, and everything that goes along it. Let's talk about LGBT+ rights, jobs, studies, and many other things.
+description: A review of 2024, what I experienced, and everything that goes along it. Let's talk about my job, studies, and many other things.
 image: ""
-tags: ["life", "years in review", "trans"]
+tags: ["life", "years in review"]
 category: personal
 draft: false
-lang: ""
+lang: "en"
 ---
 
 2024 is slowly shifting to dawn, it is soon time to kiss it goodbye and welcome 2025 with our arms wide open.
@@ -128,22 +128,6 @@ I also have learnt very valuable new knowledge too. Understanding a true product
 Something I truly appreciate in this specific environment.
 
 I probably will talk more about my experience and what I've learned there. There are plenty of things I wish to talk about! (Namely, how my enterprise can absolutely read everything from our users)
-
-## Trans experience
-
-This is a more sensitive topic. Feel free to stop reading from here. I will talk about me personally here.
-
-This year has been particularly impactful toward my identity. It is the year I have finally decided to no longer be questioning myself, and just be who I always wished to be. That is, to be transgender. To turn from male to female.
-I had enough to put myself in questions again and again, and experience dysphoria.
-
-I have taken this final decision in late August. It has been since 4 months since I started being more feminine in my daily life, and it's been 1 month since I have started [HRT](https://en.wikipedia.org/wiki/Hormone_replacement_therapy)/[GAHT](https://en.wikipedia.org/wiki/Gender-affirming_hormone_therapy).
-It has been a huge change for me since I have started HRT. Many things are already starting to change in me, and there's yet other changes to experience. I may or may not talk about it.
-
-I have made my coming out to my friends; very few have decided to leave me behind since then, but most of them are just fine about it.
-
-I have made my coming out to my parents too; they are supporting my decision. This won't be the case with most of my family members, but my parents are the only most importants persons I had the wish that they support me.
-
-All of this aside, this is, hopefully, the last year where I will have to spend Christmas the way I used to be before. Next year, I hope to be on my feminine side. This will be a shock, for sure. But I expect to be feminine looking by a year.
 
 ## Conclusion
 

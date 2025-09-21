@@ -17,11 +17,11 @@ This blog is very recent, there isn't much, but I'll add stuff to it some days..
 
 ## Stuff I like
 
-- Programming
-- Tinkering around stuff, breaking and repairing
-- [Reading books](/posts/books/)
-- Music
-- Video gaming
+- tinkering around stuff, breaking and repairing
+- [reading books](/posts/books/)
+- listening to music
+- playing video gaming, but more rarely nowadays
+- doing some programming from time to time
 
 ## Stuff I own
 
@@ -30,7 +30,6 @@ This blog is very recent, there isn't much, but I'll add stuff to it some days..
 - headphones (nomad): [Sennheiser Momentum 4](https://www.sennheiser-hearing.com/en-US/p/momentum-4-wireless-pride-edition/)
 - tablet: [Boox Note Air 4C](https://ewritable.net/brands/boox/tablets/boox-note-air4-c/)
 - misc: [Flipper Zero](https://flipperzero.one/) (Gen 1)
-- misc: A [huge flag](https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg) (⚠️: some will hate this flag, some others will love it. you choose.)
 
 ## Stuff I want to do
 
