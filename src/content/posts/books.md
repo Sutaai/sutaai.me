@@ -62,11 +62,24 @@ Kudos to the quotes that were made between stories too, I really enjoy them.
 
 It's overall an amazing read if you like adventure and dramatic lectures. It won't kill your sanity, and you'll have a hell of a fun ride!
 
-> ## [Tous les silences ne font pas le même bruit](<https://www.librarything.com/work/33101130/t/Tous-les-silences-ne-font-pas-le-m%C3%AAme-bruit-French-Edition>)
+> ## [Tous les silences ne font pas le même bruit](<https://www.librarything.com/work/33101130/>)
 >
-> By **Baptiste Beaulieu** - ⌚ Ongoing
+> By **Baptiste Beaulieu** - ✅ Completed
 
-Further notes will be given once book has been finished.
+Okay, there's a lot to unpack here.
+
+Baptiste Beaulieu has made an incredible work with this book, talking about hist homosexuality and its life. Talking about how you've been mistreated by your family and friend just for being yourself is a deep and difficult subject. To be able to publish it is an incredible work of self-love.
+
+A acquaintance made me aware of this book and its author, it is also how I've read [Où vont les larmes quand elles sèchent ?](<https://www.librarything.com/work/31458351/>), another book where the author also talk about its life experience.
+
+Combine these two, and not only do you get an electroshock by the gut punch of some of the crude and terrible words you'll read, but also some fun humor of the author's writing.
+It's a conflictual style: the mix of fun and fear of each fun makes it a rollercoaster of emotions, and it might change how you look at certain things (And make you realize how lucky you and I probably are).
+Nonetheless, both **Tous les silences ne font pas le même bruit** and **Où vont les larmes quand elles sèchent ?** are book you should read.
+
+**Tous les silences ne font pas le même bruit** talk about the author's childhood life and how difficult, painful it has been toward his family and friend since he's an homosexual whose sexuality cannot be accepted by its social circle.
+
+**Où vont les larmes quand elles sèchent ?** is more about its professional life and how it has affected its inner emotions, which yes, do have a link to its childhood (Hence why you should read **Tous les silences** [oh my f*cking god this title is so long] **ne font pas le même bruit** first). I prefered this talk as not only do I find it less shocking, but you get to discover much more characters and there's an overall better aura coming out of this book, it's much more calm.
+Some peace in a troubled life.
 
 > ## [House of Leaves](<https://wikipedia.org/wiki/House_of_Leaves>)
 >
