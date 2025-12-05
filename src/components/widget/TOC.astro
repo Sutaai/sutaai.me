@@ -7,7 +7,7 @@ interface Props {
   headings: MarkdownHeading[];
 }
 
-let { headings = [] } = Astro.props;
+const { headings = [] } = Astro.props;
 
 let minDepth = 10;
 for (const heading of headings) {
@@ -19,7 +19,7 @@ const className = Astro.props.class;
 const isPostsRoute = Astro.url.pathname.startsWith("/posts/");
 
 const removeTailingHash = (text: string) => {
-  let lastIndexOfHash = text.lastIndexOf("#");
+  const lastIndexOfHash = text.lastIndexOf("#");
   if (lastIndexOfHash !== text.length - 1) {
     return text;
   }
@@ -27,7 +27,7 @@ const removeTailingHash = (text: string) => {
   return text.substring(0, lastIndexOfHash);
 };
 
-let heading1Count = 1;
+const heading1Count = 1;
 
 const maxLevel = siteConfig.toc.depth;
 ---
