@@ -5,6 +5,7 @@
 	"scripts": {
 		"dev": "astro dev",
 		"start": "astro dev",
+		"check": "astro check",
 		"build": "astro build && pagefind --site dist",
 		"preview": "astro preview",
 		"astro": "astro",
@@ -17,9 +18,12 @@
 	"dependencies": {
 		"@astrojs/check": "^0.9.6",
 		"@astrojs/rss": "^4.0.14",
-		"@astrojs/sitemap": "^3.4.0",
-		"@astrojs/svelte": "7.0.13",
+		"@astrojs/sitemap": "^3.6.0",
+		"@astrojs/svelte": "7.2.0",
 		"@astrojs/tailwind": "^6.0.2",
+		"@expressive-code/core": "^0.41.3",
+		"@expressive-code/plugin-collapsible-sections": "^0.41.3",
+		"@expressive-code/plugin-line-numbers": "^0.41.3",
 		"@fontsource-variable/jetbrains-mono": "^5.2.8",
 		"@fontsource/roboto": "^5.2.9",
 		"@iconify-json/fa6-brands": "^1.2.6",
@@ -30,12 +34,13 @@
 		"@swup/astro": "^1.7.0",
 		"@tailwindcss/typography": "^0.5.19",
 		"astro": "5.16.4",
+		"astro-expressive-code": "^0.41.3",
 		"astro-icon": "^1.1.5",
 		"hastscript": "^9.0.1",
 		"katex": "^0.16.25",
 		"markdown-it": "^14.1.0",
 		"mdast-util-to-string": "^4.0.0",
-		"overlayscrollbars": "^2.11.3",
+		"overlayscrollbars": "^2.12.0",
 		"pagefind": "^1.4.0",
 		"photoswipe": "^5.4.4",
 		"reading-time": "^1.5.0",
@@ -53,7 +58,7 @@
 		"stylus": "^0.64.0",
 		"svelte": "^5.45.5",
 		"tailwindcss": "^3.4.18",
-		"typescript": "^5.8.3",
+		"typescript": "^5.9.3",
 		"unist-util-visit": "^5.0.0"
 	},
 	"devDependencies": {
@@ -66,13 +71,5 @@
 		"postcss-import": "^16.1.1",
 		"postcss-nesting": "^13.0.2"
 	},
-	"packageManager": "pnpm@10.24.0+sha512.6b849d0787d97f8f4e1f03a9b8ff8f038e79e153d6f11ae539ae7c435ff9e796df6a862c991502695c7f9e8fac8aeafc1ac5a8dab47e36148d183832d886dd52",
-	"pnpm": {
-		"onlyBuiltDependencies": [
-			"@biomejs/biome",
-			"esbuild",
-			"sharp",
-			"swup"
-		]
-	}
+	"packageManager": "pnpm@10.24.0"
 }

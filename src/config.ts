@@ -1,4 +1,5 @@
 import type {
+  ExpressiveCodeConfig,
   LicenseConfig,
   NavBarConfig,
   ProfileConfig,
@@ -50,12 +51,17 @@ export const profileConfig: ProfileConfig = {
     {
       name: "links",
       icon: "fa6-solid:share-nodes",
-      url: "https://t4t.one/",
+      url: "https://t4t.one/hello",
     },
     {
       name: "steam",
       icon: "fa6-brands:steam",
       url: "https://steamcommunity.com/id/Sutaai/",
+    },
+    {
+      name: "GitHub",
+      icon: "fa6-brands:github",
+      url: "https://github.com/Sutaai",
     },
   ],
 };
@@ -64,4 +70,10 @@ export const licenseConfig: LicenseConfig = {
   enable: true,
   name: "MIT",
   url: "https://opensource.org/license/MIT",
+};
+
+export const expressiveCodeConfig: ExpressiveCodeConfig = {
+  // Note: Some styles (such as background color) are being overridden, see the astro.config.mjs file.
+  // Please select a dark theme, as this blog theme currently only supports dark background color
+  theme: "github-dark",
 };
