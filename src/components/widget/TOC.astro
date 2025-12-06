@@ -8,7 +8,7 @@ interface Props {
   headings: MarkdownHeading[];
 }
 
-const { headings = [] } = Astro.props;
+let { headings = [] } = Astro.props;
 
 let minDepth = 10;
 for (const heading of headings) {
@@ -27,7 +27,7 @@ const removeTailingHash = (text: string) => {
   return text.substring(0, lastIndexOfHash);
 };
 
-const heading1Count = 1;
+let heading1Count = 1;
 
 const maxLevel = siteConfig.toc.depth;
 ---
