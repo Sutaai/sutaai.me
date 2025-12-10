@@ -4,7 +4,7 @@ export type SiteConfig = {
   title: string;
   subtitle: string;
 
-  lang: string;
+  lang: "en" | "fr";
 
   themeColor: {
     hue: number;
@@ -85,4 +85,8 @@ export type BlogPostData = {
   prevSlug?: string;
   nextTitle?: string;
   nextSlug?: string;
+};
+
+export type ExpressiveCodeConfig = {
+  theme: string;
 };
