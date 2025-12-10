@@ -45,7 +45,7 @@ Baptiste Beaulieu, Où vont les larmes quand elles sèchent
 
 Baptiste Beaulieu, Où vont les larmes quand elles sèchent
 
-> *"Toutes les larmes ne sont pas un mal."
+> *"Toutes les larmes ne sont pas un mal."*
 
 Gandalf le Blanc, Le Seigneur des Anneaux
 
