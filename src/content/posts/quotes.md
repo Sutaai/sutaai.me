@@ -56,3 +56,7 @@ Khan, Metro 2033
 > *"This part of my life that brings me so joy was started and sustained by my dad encouraging it and being a part of it. Not everyone is that lucky to have a scenario like that, but regardless of your circumstances, something good in your life can start and be nurtured by sharing it with people you love and vice versa. You never know what can blossom into someone's like just by sharing what you care about, even if it's in a small way."*
 
 McKayn, [What I Learned from Getting 3 Middle-aged Men Addicted to Minecraft](<https://youtu.be/ZLoLAyeLe-c?t=1541>)
+
+> *"It's rare to be able to love doing something you're not good at. Don't ever let go of that. You're not good at"*
+
+Unbeatable
