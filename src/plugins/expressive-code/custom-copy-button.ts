@@ -1,4 +1,5 @@
 import { definePlugin } from "@expressive-code/core";
+// @ts-ignore
 import type { Element } from "hast";
 
 export function pluginCustomCopyButton() {
