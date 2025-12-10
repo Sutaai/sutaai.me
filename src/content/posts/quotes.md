@@ -45,7 +45,7 @@ Baptiste Beaulieu, Où vont les larmes quand elles sèchent
 
 Baptiste Beaulieu, Où vont les larmes quand elles sèchent
 
-> *"Toutes les larmes ne sont pas un mal."
+> *"Toutes les larmes ne sont pas un mal."*
 
 Gandalf le Blanc, Le Seigneur des Anneaux
 
@@ -57,6 +57,6 @@ Khan, Metro 2033
 
 McKayn, [What I Learned from Getting 3 Middle-aged Men Addicted to Minecraft](<https://youtu.be/ZLoLAyeLe-c?t=1541>)
 
-> *"It's rare to be able to love doing something you're not good at. Don't ever let go of that. You're not good at"*
+> *"It's rare to be able to love doing something you're not good at. Don't ever let go of that. You're not good at."*
 
 Unbeatable
