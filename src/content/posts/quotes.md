@@ -60,3 +60,7 @@ McKayn, [What I Learned from Getting 3 Middle-aged Men Addicted to Minecraft](<h
 > *"It's rare to be able to love doing something you're not good at. Don't ever let go of that. You're not good at."*
 
 Unbeatable
+
+> *"La Justice doit être la même pour toutes et tous. Une Justice avec des exceptions ce n'est pas une Justice du tout."*
+
+[Diable Positif](<https://www.youtube.com/@diablepositif/>), [Emplois fictifs et magouilles véritables](<https://youtu.be/1Kh-5nyx3tY>)
