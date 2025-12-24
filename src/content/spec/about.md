@@ -7,12 +7,12 @@ I am a french female resident. I work in the field of system administration and 
 I have past experience with programming which is now more of a personal hobby than anything serious.
 Call me a nerd, you'd be deadly right.
 
-Privacy is one of the thing I am really close yet still very not knowledgeable about.
-I try to still allow myself to use tools that are not privacy-friendly (Such as [Gemini](https://wikipedia.org/wiki/Google_Gemini)) for the sake of features that I consider personally important or that would be too restricting for myself and my usages (Like [Screen Calling](https://support.google.com/phoneapp/answer/9118387) on my phone, which is a feature I absolutely can't lose).
+Privacy is one of the thing I am really close yet still not very knowledgeable about.
+Over the years, I've been more and more forcing my hand to use privacy-friendly solutions and de-googling my life, which does take a lot of time, practice and patience, but it is a process that is by far the most gratifying.
 I am looking forward to use [Signal](https://signal.org/) for my daily messaging.
 
 :::note
-This blog is very recent, there isn't much, but I'll add stuff to it some days... When I'm not lazy or busy (Let's be honest, it's mostly about being lazy)
+This blog is recent, there isn't much for now, but I'll add stuff to it bit by bit, when I have time.
 :::
 
 ## Stuff I like
@@ -25,7 +25,7 @@ This blog is very recent, there isn't much, but I'll add stuff to it some days..
 
 ## Stuff I own
 
-- phone (personal): [Google Pixel 8](https://store.google.com/us/product/pixel_8) (Running Stock OS)
+- phone (personal): [Google Pixel 8](https://store.google.com/us/product/pixel_8) (Running GrapheneOS)
 - headphones (home): [Sennheiser HD600](https://www.sennheiser-hearing.com/en-US/p/hd-600/)
 - headphones (nomad): [Sennheiser Momentum 4](https://www.sennheiser-hearing.com/en-US/p/momentum-4-wireless-pride-edition/)
 - tablet: [Boox Note Air 4C](https://ewritable.net/brands/boox/tablets/boox-note-air4-c/)
