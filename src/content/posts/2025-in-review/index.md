@@ -5,7 +5,7 @@ description: A review of 2025, what changed, what was improved, and some stuff. 
 image: 'banner.jpg'
 tags: ["life", "years in review"]
 category: personal
-draft: true
+draft: false
 lang: en
 ---
 
