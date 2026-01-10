@@ -148,3 +148,11 @@ All of this to say that even if I lost a very long-time, I didn't really took it
 Life won't stop putting new relationship in your life. Unless you decide to.
 
 ## Conclusion
+
+2025 has been a wild year. I've done lot of things that will drive 2026 to a better life for sure.
+Tech side, I'm looking forward to using Ansible, or something similar since, well, kind of fuck Python, in a way...
+
+On the side of life, yeah well, I'm just living. I can't say I'm looking forward to this or that, I just take whatever happen.
+
+I'll be back for 2026 in review.
+G'day to you!
