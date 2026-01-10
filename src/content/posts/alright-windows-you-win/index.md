@@ -48,7 +48,7 @@ While the refreshed desktop experience really made its charm, it also came with 
 And that's as far as how I've configured my Linux environment. KDE for it all. It was quite good, but... KDE also come with its quirks.
 While KDE came with plentiful of tools, options/settings, tiny details and way more full of features (That's, again, in **my opinion**), there's probably TOO MUCH of them! Some feels like they've been unmaintained for years, and glitches are quite common in KDE.
 
-Additionally, while less required than GNOME, tons of aspect of KDE can be customized using... user-submitted content. And those "plugins" are way, *WAY* less maintained than the KDE ones.
+Additionally, while less required than GNOME, tons of aspect of KDE can be customized using... user-submitted content. And those "plugins" are way, *WAY* less maintained than the GNOME ones.
 So maybe I should have stayed the GNOME way. Go figure.
 
 #### Breakage
@@ -146,7 +146,7 @@ You're advised to check out the repository's README to know how to launch the pr
 
 Once there, you can enable/disable certain tweaks to better customize Windows to your liking:
 
-![An image of Chris Titus's winutil "Tweak" tab](<https://github.com/ChrisTitusTech/winutil/blob/main/docs/assets/Title-Screen.png?raw=true>)
+![An image of Chris Titus's winutil "Tweak" tab](<https://raw.githubusercontent.com/Chris-Titus-Docs/winutil-docs/refs/heads/main/assets/images/Title-Screen.png>)
 
 Feel free to chose the tweaks you'd like to use.
 

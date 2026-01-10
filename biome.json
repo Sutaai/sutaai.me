@@ -17,9 +17,10 @@
 	},
 	"formatter": {
 		"enabled": true,
-		"indentStyle": "tab"
+		"indentStyle": "tab",
+		"lineEnding": "lf"
 	},
-  "assist": {
+	"assist": {
 		"actions": {
 			"recommended": true,
 			"source": {
