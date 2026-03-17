@@ -13,7 +13,7 @@ Nous sommes tou.te.s inspiré.e.s par des citations que nous avons rencontré.e.
 
 Je les trouves tellement impactante qu'il me semble important que nous devrions les noter, pour les garder pour plus tard, les relire, et non seulement, ne pas les oublier, mais se réinspirer et se renouveler sur des inspirations précédentes.
 
-Ainsi, je tiens à lister ici, les citations m'ayant inspirée personellemment. Elles seront majoritairement en français, mais quelques anglaises peuvent s'inscrire, dans la continuité d'un blog multilingue.
+Ainsi, je tiens à lister ici, les citations m'ayant inspirée personnellement. Elles seront majoritairement en français, mais quelques anglaises peuvent s'inscrire, dans la continuité d'un blog multilingue.
 
 ---
 
@@ -23,15 +23,11 @@ Emil Michel Cioran, Cahiers 1957-1972
 
 > *"All clothes are unisex, if you stop being a bitch about it"*
 
-*Source inconnue.*
+*Unknown source.*
 
 > *"C'est incroyable, le pouvoir d'un sourire. Ça vous saisit le visage comme un baiser déposé directement sur le cœur."*
 
 Où vont les larmes quand elles sèchent, Baptiste Beaulieu
-
-> *"La vérité, c'est que la visibilité de personnages appartenant ouvertement à une orientation sexuelle minorisée est insupportable pour le régime sexuel dominant."*
-
-Baptiste Beaulieu, Tous les silences ne font pas le même bruit
 
 > *"Qui est-elle, quel type de relation a-t-on, comment elle m'a élevé, comment elle a été élevée, comment fonctionne le couple de mes parents, et si elle fouette mon père à coup de côtelette de porc, etc."*
 
@@ -64,3 +60,7 @@ Unbeatable
 > *"La Justice doit être la même pour toutes et tous. Une Justice avec des exceptions ce n'est pas une Justice du tout."*
 
 [Diable Positif](<https://www.youtube.com/@diablepositif/>), [Emplois fictifs et magouilles véritables](<https://youtu.be/1Kh-5nyx3tY>)
+
+> *"It's not about the issues, it's about how we resolve them."*
+
+Chara W.
