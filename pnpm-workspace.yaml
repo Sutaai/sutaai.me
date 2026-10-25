@@ -1,5 +1,3 @@
-onlyBuiltDependencies:
-  - '@parcel/watcher'
-  - esbuild
-  - sharp
-  - swup
+allowBuilds:
+  esbuild: true
+  sharp: true
