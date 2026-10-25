@@ -43,7 +43,7 @@ Et laissez vos p*tain de street-medics faire leurs boulot d'aider les personnes 
 
 TOUT LE MONDE PEUX AIDER.
 
-Le collection Medic'Action propose une base de ressources très importante sur son wiki et ses brochures. Si vous souhaitez aider à la cause des street-medics, c'est LA ressource de base.
+Le collectif Medic'Action propose une base de ressources très importante sur son wiki et ses brochures. Si vous souhaitez aider à la cause des street-medics, c'est LA ressource de base.
 Vous n'avez pas forcément besoin d'être formé aux premiers secours ou d'avoir le(s) diplôme(s) du PSC pour aider.
 
 **Vous souhaitez devenir street-medic ? Renseignez-vous sur Medic'Action : <https://medicaction.org/>.**

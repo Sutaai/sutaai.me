@@ -6,7 +6,7 @@ image: ""
 tags: ["life"]
 category: personal
 draft: false
-lang: ""
+lang: 'en'
 ---
 
 <!--
