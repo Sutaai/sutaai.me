@@ -1,4 +1,5 @@
 ---
+
 title: 2024 in review
 published: 2024-12-22
 description: A review of 2024, what I experienced, and everything that goes along it. Let's talk about my job, studies, and many other things.

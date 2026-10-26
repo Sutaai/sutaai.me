@@ -1,15 +1,16 @@
 ---
+
 title: street medic
 published: 2026-10-25
 description: 'BE CAREFUL WITH EACH OTHER, SO WE CAN BE DANGEROUS TOGETHER'
 image: 'https://safebooru.org//images/4454/a7d73ac93a4d5166068a1a0ecbe4a3a7ef4dfe84.jpg'
 tags: []
 category: 'personal'
-draft: false 
+draft: false
 lang: 'fr'
 ---
 
-*Image Credit: [Qian](<https://www.pixiv.net/en/users/43791446>) - <https://www.pixiv.net/en/artworks/113866885>*
+_Image Credit: [Qian](<https://www.pixiv.net/en/users/43791446>) - <https://www.pixiv.net/en/artworks/113866885>_
 
 Ignorés, oubliés, détestés, supprimés, dénigrés, frappés, éborngnés, punis. Et tués.
 D'ouvrir la voie à l'appel de demander un changement.
@@ -19,7 +20,7 @@ En ces temps de malheur profond en France, nous constatons des actes terribles e
 L'État fait preuve de sa plus haute sourdité, ignorant les revendications criés par les lycéens et autres manifestants du 17 et 24 octobre 2026, une ignorance totale que nous avons déjà pu constater dans le quinquennat d'Emmanuel Macron, comme en [ignorant le résultat des élections législatives](<https://fr.wikipedia.org/wiki/Crise_politique_fran%C3%A7aise_depuis_2024>). Cependant, elle est exceptionnellement marqué par des violences policières autoritaire portés sur des **enfants**. Des jeunes proclamant et demandant la simple envie **d'étudier dans des conditions de vie dignes et respectables.**
 La réponse de son gouvernement : Viser, tirer, frapper, effrayer, dépouyer, litérallement mais aussi des droits individuels des individus. **À/Sur des enfants.**
 
-J'ai participée, pour la première fois, en tant que street-medic, à la manifestation du 24 octobre 2026, à la manifestation lycéenne de Strasbourg, là où la répression policère a été quelque peu important. 
+J'ai participée, pour la première fois, en tant que street-medic, à la manifestation du 24 octobre 2026, à la manifestation lycéenne de Strasbourg, là où la répression policère a été quelque peu important.
 
 Bien que, pour cette première participation, je n'ai été que peu mobilisée (Parcours sauvage moins agitée par les forces de l'ordre, plus petit regroupement, etc.), la réponse policère reste tout de même alarmante et choquante, que ce soit qu'en tant que manifestante, ou personne venant à l'assistance des individus revendiquants leurs droits.
 
