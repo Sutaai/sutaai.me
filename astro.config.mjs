@@ -6,7 +6,7 @@ import { pluginLineNumbers } from "@expressive-code/plugin-line-numbers";
 import swup from "@swup/astro";
 import expressiveCode from "astro-expressive-code";
 import icon from "astro-icon";
-import { defineConfig } from "astro/config";
+import { defineConfig, memoryCache } from "astro/config";
 import icon from "astro-icon";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeComponents from "rehype-components"; /* Render the custom directive content */
@@ -24,6 +24,7 @@ import { parseDirectiveNode } from "./src/plugins/remark-directive-rehype.js";
 import { remarkExcerpt } from "./src/plugins/remark-excerpt.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-copy-button.js";
+import { unified } from "@astrojs/markdown-remark";
 
 // https://astro.build/config
 export default defineConfig({
@@ -115,6 +116,7 @@ export default defineConfig({
     // }),
   ],
   markdown: {
+    processor: unified(),
     remarkPlugins: [
       remarkMath,
       remarkReadingTime,
@@ -180,5 +182,8 @@ export default defineConfig({
         },
       },
     },
+  },
+  cache: {
+    provider: memoryCache(),
   },
 });
