@@ -1,5 +1,4 @@
 ---
-
 title: "alright windows, you win... almost."
 published: 2025-03-29
 description: "As much as I love Linux, I still decided to go forward the devil's path and choose Windows as my primary OS at home. But, there might good reasons for that. Time to explain how I made Windows my new home. Because there sure is a lot of things to talk about."
@@ -10,7 +9,7 @@ draft: false
 lang: 'en'
 ---
 
-_Image Credit: [y75zei](https://x.com/Y75Zei) - <https://danbooru.donmai.us/posts/9063648>_
+*Image Credit: [y75zei](https://x.com/Y75Zei) - <https://danbooru.donmai.us/posts/9063648>*
 
 I am a defender of open-source projects. Sadly, it isn't everyone's philosophy. Bummer. And, well, whatever.
 
@@ -20,7 +19,7 @@ One thing we are daily driving is our computer; and its operating system. And so
 - Have you paid the Apple tax? If so, welcome to your new [privacy-invading](<https://inteltechniques.com/book7.html>) home. (There's a lot you should read in that book)
 - Do you feel adventurous, traveler? Do you wish to explore Linux, and its open world? The greatest place of freedom known to technology, but will you dare challenge its step learning curve? But fear not, it's all free for you to explore this wonderful landscape.
 
-Okay, you actually only have _two paths_, assuming you haven't paid the Apple tax. And if you have, you're unlikely to use any other OS anyway.
+Okay, you actually only have *two paths*, assuming you haven't paid the Apple tax. And if you have, you're unlikely to use any other OS anyway.
 And obviously, almost everyone uses Windows these days.
 
 And I've been there too. I've used Windows as my daily drive too. It has been a fair ride, with struggles at time, most especially for programming. It quickly become easy to understand that programming on Linux is only a fair (and sometime sane) decision.
@@ -49,7 +48,7 @@ While the refreshed desktop experience really made its charm, it also came with 
 And that's as far as how I've configured my Linux environment. KDE for it all. It was quite good, but... KDE also come with its quirks.
 While KDE came with plentiful of tools, options/settings, tiny details and way more full of features (That's, again, in **my opinion**), there's probably TOO MUCH of them! Some feels like they've been unmaintained for years, and glitches are quite common in KDE.
 
-Additionally, while less required than GNOME, tons of aspect of KDE can be customized using... user-submitted content. And those "plugins" are way, _WAY_ less maintained than the GNOME ones.
+Additionally, while less required than GNOME, tons of aspect of KDE can be customized using... user-submitted content. And those "plugins" are way, *WAY* less maintained than the GNOME ones.
 So maybe I should have stayed the GNOME way. Go figure.
 
 #### Breakage
@@ -80,13 +79,13 @@ As I mentioned in my [2024 review](<2024-in-review/index.md>):
 
 > [...] While I appreciate the modification realized to Windows and the increase of privacy, the modification it provides are causing more troubles than help.
 
-AtlasOS has this bad habit to apparently entirely cut off Windows Update. Not the very basics one such as Microsoft Defender antivirus database (thank god!), or to oil up the current version of Windows. But anything about _upgrading_ was out of the question apparently.
+AtlasOS has this bad habit to apparently entirely cut off Windows Update. Not the very basics one such as Microsoft Defender antivirus database (thank god!), or to oil up the current version of Windows. But anything about *upgrading* was out of the question apparently.
 And yes, that is to me, an issue. What if I want to mess with the brand new [Copilot](<https://support.microsoft.com/en-us/windows/welcome-to-copilot-on-windows-675708af-8c16-4675-afeb-85a5a476ccb0>)? (eww)
 <!-- Lol, I can't wait for that URL to die! -->
 
 And secondly. Whenever the AtlasOS team went out to release an AtlasOS update (So pretty much their scripts to "tweak" Windows), it would generally require **a whole OS reinstall**!
 
-And that, my friends, is an absolute **_no_**. Upgrading shouldn't impact user's documents/experience.
+And that, my friends, is an absolute ***no***. Upgrading shouldn't impact user's documents/experience.
 
 So throw me this out the Windows! We'll just use tools to tweak Windows yourself!
 
@@ -102,9 +101,9 @@ I don't mind if the PC send a few telemetry right after being installed, as long
 
 ### During the installation
 
-![GIF of multiple errors shown in Windows 98](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJxZGR1MXRtOGF3Mndycmt4bjV0bGt2b2VlYjV3ZTBhbDAzYnVydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amE3iwyu3IxTeqzwm7/giphy.gif)
+![GIF of multiple errors shown in Windows 98](<https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJxZGR1MXRtOGF3Mndycmt4bjV0bGt2b2VlYjV3ZTBhbDAzYnVydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amE3iwyu3IxTeqzwm7/giphy.gif>)
 
-During the installation, Windows will be _sneakily_ be installing applications you do not wish for after installing the OS.
+During the installation, Windows will be *sneakily* be installing applications you do not wish for after installing the OS.
 This is a feature called OOBE (Meaning "Out Of the Box Experience"). From the Windows website, this features describe the following:
 
 > When customers turn on their Windows 11 PCs for the first time, they'll see the Windows Out of Box Experience (OOBE).
@@ -147,7 +146,7 @@ You're advised to check out the repository's README to know how to launch the pr
 
 Once there, you can enable/disable certain tweaks to better customize Windows to your liking:
 
-![An image of Chris Titus's winutil "Tweak" tab](https://raw.githubusercontent.com/Chris-Titus-Docs/winutil-docs/refs/heads/main/assets/images/Title-Screen.png)
+![An image of Chris Titus's winutil "Tweak" tab](<https://raw.githubusercontent.com/Chris-Titus-Docs/winutil-docs/refs/heads/main/assets/images/Title-Screen.png>)
 
 Feel free to chose the tweaks you'd like to use.
 
@@ -207,7 +206,7 @@ I'm also not a big fan of [PowerShell](<https://learn.microsoft.com/en-us/powers
 I really dislike the "Windows-like" case styling. It ALWAYS feels too verbose.
 While you can do `ls` on PowerShell, the actual, correct term is `Get-ChildItem`.
 
-![A meme showing the user, waving at "ls" while "Get-ChildItem" nod "no"](https://i.imgur.com/r6HThpk.gif)
+![A meme showing the user, waving at "ls" while "Get-ChildItem" nod "no"](<https://i.imgur.com/r6HThpk.gif>)
 
 #### HOWEVER
 
@@ -233,8 +232,8 @@ You can also add Carapace to many others shell, like PowerShell, so it gets avai
 For those who knows me a bit better, it is very important for me to care for my audio experience.
 As such, I'm using an equalizer.
 
-↓↓↓ _Audiophiles_
-![A raging meme](https://media.tenor.com/kKNOLQbkxw8AAAAi/tense-green.gif)
+↓↓↓ *Audiophiles*
+![A raging meme](<https://media.tenor.com/kKNOLQbkxw8AAAAi/tense-green.gif>)
 
 For those who are starting to boil by this simple fact, please go watch [this](<https://youtu.be/PsijHAVLbuY?si=1IrGprB67SFjcAWP>) :)
 

@@ -1,5 +1,4 @@
 ---
-import { type CollectionEntry, render } from "astro:content";
 import path from "node:path";
 import License from "@components/misc/License.astro";
 import Markdown from "@components/misc/Markdown.astro";
@@ -18,15 +17,15 @@ import { formatDateToYYYYMMDD } from "../../utils/date-utils";
 export async function getStaticPaths() {
   const blogEntries = await getSortedPosts();
   return blogEntries.map((entry) => ({
-    params: { slug: entry.id, id: entry.id },
+    params: { slug: entry.slug },
     props: { entry },
   }));
 }
 
 const { entry } = Astro.props;
-const { Content, headings } = await render(entry);
+const { Content, headings } = await entry.render();
 
-const { remarkPluginFrontmatter } = await render(entry);
+const { remarkPluginFrontmatter } = await entry.render();
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -37,7 +36,7 @@ const jsonLd = {
   author: {
     "@type": "Person",
     name: profileConfig.name,
-    url: import.meta.env.SITE,
+    url: Astro.site,
   },
   datePublished: formatDateToYYYYMMDD(entry.data.published),
   inLanguage: entry.data.lang
@@ -99,7 +98,7 @@ const jsonLd = {
             <!-- always show cover as long as it has one -->
 
             {entry.data.image &&
-                <ImageWrapper id="post-cover" src={entry.data.image} basePath={path.join("content/posts/", entry.id)} class="mb-8 rounded-xl banner-container onload-animation"/>
+                <ImageWrapper id="post-cover" src={entry.data.image} basePath={path.join("content/posts/", getDir(entry.id))} class="mb-8 rounded-xl banner-container onload-animation"/>
             }
 
 
@@ -107,7 +106,7 @@ const jsonLd = {
                 <Content />
             </Markdown>
 
-            {licenseConfig.enable && <License title={entry.data.title} slug={entry.id} pubDate={entry.data.published} class="mb-6 rounded-xl license-container onload-animation"></License>}
+            {licenseConfig.enable && <License title={entry.data.title} slug={entry.slug} pubDate={entry.data.published} class="mb-6 rounded-xl license-container onload-animation"></License>}
 
         </div>
     </div>

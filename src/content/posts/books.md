@@ -1,5 +1,4 @@
 ---
-
 title: books
 published: 2024-10-20
 description: An in-depth look of the books I have been reading. Spoiler-free, obviously! I'm just here to give an insight and my impression here.

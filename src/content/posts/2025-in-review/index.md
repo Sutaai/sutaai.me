@@ -1,5 +1,4 @@
 ---
-
 title: 2025 in review
 published: 2025-12-04
 description: A review of 2025, what changed, what was improved, and some stuff. Let's talk about my studies, tech, political life, and many other things.
@@ -10,12 +9,12 @@ draft: false
 lang: en
 ---
 
-_Image Credit: [あすてろid](https://www.pixiv.net/en/users/2033916) - <https://www.pixiv.net/en/artworks/123427390>_
+*Image Credit: [あすてろid](https://www.pixiv.net/en/users/2033916) - <https://www.pixiv.net/en/artworks/123427390>*
 
 Now is time for the most wonderful time of the year, and another blog post: 2025 is soon to turn to an end. Time for some additional, very necessary writing on this blog.
 
-I had many wishes to write on my blog, but I genuinely **_DON'T HAVE TIME_**, I get busy by so many others things and project, and it's only stressful not to focus on work.
-So I'm glad to finally write up a little more after an _(almost)_ year of silence.
+I had many wishes to write on my blog, but I genuinely ***DON'T HAVE TIME***, I get busy by so many others things and project, and it's only stressful not to focus on work.
+So I'm glad to finally write up a little more after an *(almost)* year of silence.
 
 Perhaps I'll have time to write some more additional words during next year! No promises are held.
 
@@ -33,7 +32,7 @@ This year has been a little boring regarding my tech-related gear, but there are
 
 - Camera: [Nikon Zfc](<https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/>)
 
-I have _very_ recently bought myself a brand new camera for photography. Very honestly, I bought this one mainly due to his look, not his performance. I wanted that one, it was cheap, so why not?
+I have *very* recently bought myself a brand new camera for photography. Very honestly, I bought this one mainly due to his look, not his performance. I wanted that one, it was cheap, so why not?
 Even if this is an APS-C sensor for 20MP photos, it is still a great entry-level camera. I have learned a lot from it already in not even two weeks of usage.
 
 It came in a bundle with two lenses (and the mainframe):
@@ -41,15 +40,15 @@ It came in a bundle with two lenses (and the mainframe):
 1. Standard [NIKKOR Z DX 16-50mm f/3.5-6.3 VR](<https://www.nikon.fr/fr_FR/product/lenses/mirrorless/nikkor-z-dx-16-50mm-f3.5-6.3-vr>)
 2. Telescopic [NIKKOR Z DX 50‑250mm f/4.5‑6.3 VR](<https://www.nikon.fr/fr_FR/product/lenses/mirrorless/nikkor-z-dx-50-250mm-f4.5-6.3-vr>)
 
-It was a steal for the price I bought it. I am **_EXTREMELY_** interested to make it a professional business and take advantage of the knowledge I took from it.
+It was a steal for the price I bought it. I am ***EXTREMELY*** interested to make it a professional business and take advantage of the knowledge I took from it.
 
 From my recent usage, I already took what I'd consider high quality pictures and very much like the results.
 
-![Photo taken from the graduation ceremony event of 2025](Graduation Ceremony.jpg)
-![Food photo from graduation ceremony (2025)](Food photo from graduation ceremony.jpg)
-![A picture of an otter in the wild land of my university](An otter.jpg)
+![Photo taken from the graduation ceremony event of 2025](<Graduation Ceremony.jpg>)
+![Food photo from graduation ceremony (2025)](<Food photo from graduation ceremony.jpg>)
+![A picture of an otter in the wild land of my university](<An otter.jpg>)
 
-_as I'm writing this, explorer.exe crashed on me five times while simply drag-n-dropping. Congrats, Windows._
+*as I'm writing this, explorer.exe crashed on me five times while simply drag-n-dropping. Congrats, Windows.*
 
 - KVM: [JetKVM](<https://jetkvm.com/>)
 
@@ -70,7 +69,7 @@ _as I'm writing this, explorer.exe crashed on me five times while simply drag-n-
 
 Last year, I talked about the OnePlus Watch 2R, my new electronic watch. I had a great experiences with connected watches, I had owned multiples, but never had issues with any of them in general.
 
-However, the OnePlus Watch 2R has a major inconvenience for me: _it burns through my skin_.
+However, the OnePlus Watch 2R has a major inconvenience for me: *it burns through my skin*.
 
 I genuinely doubt this is an allergic reaction, but wearing the watch for too long would expose my skin to discomfort, and so I scratch my arm, and so it irritate even more and degrade.
 I very suspect the heart monitor to be at the cause, and truly wonder how could this happen, but I felt the need to specify it.
@@ -103,7 +102,7 @@ I'm still changing stacks very regularly and have this, more or less, bad tenden
 2025 has been a mitigated year regarding my studies. Peoples have seen me changes during that time too, but that is a touchy subject.
 
 Not only that, but it has also been where I spent 3 whole months at work (apprenticeship). And it made me realize how much I'll probably not last in the branch of technology.
-In the recent months, I have wished only more and more to do something more creative, more ambitious, more traditional and less _connected_. Photography stumbled upon my hands right at this time it seems.
+In the recent months, I have wished only more and more to do something more creative, more ambitious, more traditional and less *connected*. Photography stumbled upon my hands right at this time it seems.
 
 Whatsoever, I don't have anything interesting to report about my current job, beside the fact that I'm leaving next year as per my contract and that I am likely to continue my studies for an engineer diploma, ONLY AFTER a year of pause ([Année de césure](<https://www.parcoursup.gouv.fr/faq/thematiques/autres-sujets/demande-de-cesure>)).
 
@@ -131,9 +130,9 @@ This feels kinda new, and making myself realize I can break people's social shel
 
 ### Friendship
 
-I'd like to also take a little time to talk about friendship and their evolution. _(That sounds really deep and philosophical)_
+I'd like to also take a little time to talk about friendship and their evolution. *(That sounds really deep and philosophical)*
 
-Over the year, I had downs and ups. I've met peoples, I've lost them, some close, some _not so close_, hell, even a few days before writing this.
+Over the year, I had downs and ups. I've met peoples, I've lost them, some close, some *not so close*, hell, even a few days before writing this.
 
 In general, I have noticed that the number of peoples in my social circle never really change: it stick around 10 close peoples, approximately, no matter what happens to peoples inside of it. (And then there's not-so-close peoples)
 

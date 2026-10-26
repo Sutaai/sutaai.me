@@ -1,5 +1,5 @@
 {
-	"$schema": "https://biomejs.dev/schemas/2.6.3/schema.json",
+	"$schema": "https://biomejs.dev/schemas/2.3.8/schema.json",
 	"vcs": {
 		"enabled": false,
 		"clientKind": "git",
@@ -22,17 +22,17 @@
 	},
 	"assist": {
 		"actions": {
-			"preset": "recommended",
+			"recommended": true,
 			"source": {
 				"organizeImports": "on",
-				"preset": "recommended"
+				"recommended": true
 			}
 		}
 	},
 	"linter": {
 		"enabled": true,
 		"rules": {
-			"preset": "recommended",
+			"recommended": true,
 			"style": {
 				"noParameterAssign": "error",
 				"useAsConstAssertion": "error",
