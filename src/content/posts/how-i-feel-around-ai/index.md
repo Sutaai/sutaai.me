@@ -53,7 +53,7 @@ Needless to say, compared to jdx, my work/commits looks like a junior just start
 
 ### Reason(s) why I don't go as fast
 
-I don't use AI as a driver for Ragers. At all. The only time I've used it in an advanced way, was at the very beginning of Ragers, when I wanted a first implementation that, at least, worked, with dirty code. I was a bit stuck on something, so I just asked Claude "Hey, please finish this logic for me". What Claude wrote were those lines only: <https://codeberg.org/Sutaai/Ragers/src/commit/599678aaca7dcb1fc7e2d20ec767edd91c4691ed/src/cli.rs#L224-L305>
+I don't use AI as a driver for Ragers. At all. The only time I've used it in an advanced way, was at the very beginning of Ragers, when I wanted a first implementation that, at least, worked, with dirty code. I was a bit stuck on something, so I just asked Claude "Hey, please finish this logic for me". What Claude wrote were those lines only: <https://codeberg.org/Sutaai/Ragers/src/commit/599678aaca7dcb1fc7e2d20ec767edd91c4691ed/src/cli.rs#L113-L222>
 
 And that is all that I've vibe-coded on Ragers. After the initial implementation was done, I've entirely rewrote it, by hands, without AI. All I wanted was a fundation I could work on, and AI gave me that, it helped me as an assistant against something I was stuck on.
 
